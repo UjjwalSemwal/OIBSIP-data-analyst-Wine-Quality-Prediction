@@ -11,7 +11,7 @@ To run this Streamlit app locally, follow these steps:
 1. Clone this repository:
 
 ```
-git clone https://github.com/Anshg07/WINE_QUALITY_PROJECT.git
+ https://ujjwalsemwal.github.io/OIBSIP-data-analyst-Wine-Quality-Prediction/
 ```
 
 2. Navigate to the project directory:
@@ -44,4 +44,4 @@ The dataset used for training the Random Forest model is the Wine Quality Datase
 The Random Forest model used in this app is trained on the Wine Quality Dataset to predict the quality of wine based on its features. Random Forest is an ensemble learning method that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.
 
 ## About
-This project is created and maintained by Ansh Gupta. Feel free to reach out with any questions or suggestions.
+This project is created and maintained by Ujjwal Semwal. Feel free to reach out with any questions or suggestions.
